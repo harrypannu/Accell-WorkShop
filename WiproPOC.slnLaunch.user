@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WiproPOC\\WiproPOC.csproj",
+        "Action": "Start",
+        "DebugTarget": "WiproPOC"
+      },
+      {
+        "Path": "WiproPOC-OrderApi\\WiproPOC-OrderApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "WiproPOC-OrderApi"
+      },
+      {
+        "Path": "ApiGateway\\ApiGateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "ApiGateway"
+      }
+    ]
+  }
+]

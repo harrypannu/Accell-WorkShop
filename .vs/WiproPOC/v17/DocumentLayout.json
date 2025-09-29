@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50453F46-E977-4569-9DCD-E24D0E5FCE9B}|WiproPOC-OrderApi\\WiproPOC-OrderApi.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\wipropoc-orderapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50453F46-E977-4569-9DCD-E24D0E5FCE9B}|WiproPOC-OrderApi\\WiproPOC-OrderApi.csproj|solutionrelative:wipropoc-orderapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50453F46-E977-4569-9DCD-E24D0E5FCE9B}|WiproPOC-OrderApi\\WiproPOC-OrderApi.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\wipropoc-orderapi\\dal\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50453F46-E977-4569-9DCD-E24D0E5FCE9B}|WiproPOC-OrderApi\\WiproPOC-OrderApi.csproj|solutionrelative:wipropoc-orderapi\\dal\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50453F46-E977-4569-9DCD-E24D0E5FCE9B}|WiproPOC-OrderApi\\WiproPOC-OrderApi.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\wipropoc-orderapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50453F46-E977-4569-9DCD-E24D0E5FCE9B}|WiproPOC-OrderApi\\WiproPOC-OrderApi.csproj|solutionrelative:wipropoc-orderapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\wipropoc\\dal\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|solutionrelative:wipropoc\\dal\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\wipropoc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|solutionrelative:wipropoc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDAFF7A-2A52-418A-98A4-5FBA852CE4F8}|ApiGateway\\ApiGateway.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDAFF7A-2A52-418A-98A4-5FBA852CE4F8}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDAFF7A-2A52-418A-98A4-5FBA852CE4F8}|ApiGateway\\ApiGateway.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BDAFF7A-2A52-418A-98A4-5FBA852CE4F8}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDAFF7A-2A52-418A-98A4-5FBA852CE4F8}|ApiGateway\\ApiGateway.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BDAFF7A-2A52-418A-98A4-5FBA852CE4F8}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDAFF7A-2A52-418A-98A4-5FBA852CE4F8}|ApiGateway\\ApiGateway.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BDAFF7A-2A52-418A-98A4-5FBA852CE4F8}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\wipropoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|solutionrelative:wipropoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50453F46-E977-4569-9DCD-E24D0E5FCE9B}|WiproPOC-OrderApi\\WiproPOC-OrderApi.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\wipropoc-orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50453F46-E977-4569-9DCD-E24D0E5FCE9B}|WiproPOC-OrderApi\\WiproPOC-OrderApi.csproj|solutionrelative:wipropoc-orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\wipropoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|solutionrelative:wipropoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|c:\\users\\harsimran\\source\\repos\\wipropoc\\wipropoc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D371C8-C415-4072-BAA0-1939ADC53B0E}|WiproPOC\\WiproPOC.csproj|solutionrelative:wipropoc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC-OrderApi\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "WiproPOC-OrderApi\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC-OrderApi\\Model\\Order.cs",
+              "RelativeToolTip": "WiproPOC-OrderApi\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:57:13.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC-OrderApi\\DAL\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "WiproPOC-OrderApi\\DAL\\OrderDbContext.cs",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC-OrderApi\\DAL\\OrderDbContext.cs",
+              "RelativeToolTip": "WiproPOC-OrderApi\\DAL\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:24:37.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\DAL\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "WiproPOC\\DAL\\CustomerDbContext.cs",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\DAL\\CustomerDbContext.cs",
+              "RelativeToolTip": "WiproPOC\\DAL\\CustomerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:24:15.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T12:23:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "WiproPOC\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "WiproPOC\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAABkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:07:16.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC-OrderApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WiproPOC-OrderApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC-OrderApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WiproPOC-OrderApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:28:18.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T05:52:52.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:24:16.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T04:25:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\Program.cs",
+              "RelativeDocumentMoniker": "WiproPOC\\Program.cs",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\Program.cs",
+              "RelativeToolTip": "WiproPOC\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:10:54.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC-OrderApi\\Program.cs",
+              "RelativeDocumentMoniker": "WiproPOC-OrderApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC-OrderApi\\Program.cs",
+              "RelativeToolTip": "WiproPOC-OrderApi\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:42:51.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\Startup.cs",
+              "RelativeDocumentMoniker": "WiproPOC\\Startup.cs",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\Startup.cs",
+              "RelativeToolTip": "WiproPOC\\Startup.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:46:20.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\appsettings.json",
+              "RelativeDocumentMoniker": "WiproPOC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harsimran\\source\\repos\\WiproPOC\\WiproPOC\\appsettings.json",
+              "RelativeToolTip": "WiproPOC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T08:53:47.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
