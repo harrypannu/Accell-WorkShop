@@ -41,8 +41,6 @@ builder.Services.Configure<JwtBearerOptions>(authenticationProviderKey, options 
     };
 });
 
-//builder.Services.AddOcelot(builder.Configuration);
-
 builder.Services.AddOcelot(builder.Configuration)
     .AddCacheManager(x => x.WithDictionaryHandle());
 
